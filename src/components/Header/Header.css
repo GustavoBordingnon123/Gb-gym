@@ -22,9 +22,15 @@
 
 @media screen and (max-width: 768px){
 
-    .header > :nth-child(2){
+    .menuMobile{
         position: fixed;
-        right: 2rem;
+        left:60%;
+        z-index: 99;
+    }
+
+    .menuMobileLi{
+        position: fixed;
+        left:35%;
         z-index: 99;
     }
 

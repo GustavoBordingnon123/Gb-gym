@@ -23,7 +23,8 @@ const Header = () => {
                 padding:'0.5rem', 
                 borderRadius:'10px'
               }}
-            onClick={() => setMenuOpend(true)}
+              className='menuMobile'
+              onClick={() => setMenuOpend(true)}
           >
             <img 
               src={Bars} 
@@ -32,7 +33,7 @@ const Header = () => {
             />
           </div>
         ) : (
-          <ul className='headerMenu'>
+          <ul className='headerMenu menuMobileLi'>
             <li>
               <Link
                 onClick={() => setMenuOpend(false)}
