@@ -6,6 +6,10 @@ import './Plans.css';
 const Plans = () => {
   return (
     <div className='plansContainer'>
+
+        <div className='blur plansBlur-1'></div>
+        <div className='blur plansBlur-2'></div>
+
         <div className='programsHeader'>
             <span className='strokeText'>Começe já</span>
             <span>Sua jornada</span>
