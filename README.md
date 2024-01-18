@@ -6,6 +6,11 @@
 
 Explore the demo [here](https://gb-gym.vercel.app).
 
+## Escolha sua linguagem / Choose your language
+
+- [![Português](https://img.shields.io/badge/pt--br-Portugu%C3%AAs-green)](README.pt-br.md) | Português 
+- [![English](https://img.shields.io/badge/en-English-green)](README.md) | English
+
 ## Description
 
 Gb-Gym is a React-based landing page for a modern and dynamic gym. Designed to be 100% responsive, the page provides a consistent user experience across various devices, from desktops to mobile devices.
@@ -47,12 +52,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 
 # Gb-Gym Landing Page
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-## Demo
-
-Explore a demo [aqui](https://gb-gym.vercel.app).
 
 ## Descrição
 
