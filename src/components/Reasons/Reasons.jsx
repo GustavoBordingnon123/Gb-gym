@@ -36,22 +36,22 @@ const Reasons = () => {
     
                 <div>
                     <img src={tick} alt="check" />
-                    <span>OVER 140+ EXPERT COACHS</span>
+                    <span>MAIS DE 140 TREINADORES ESPECIALIZADOS</span>
                 </div>
 
                 <div>
                     <img src={tick} alt="check" />
-                    <span>TRAIN SMARTER AND FASTER THAN BEFORE</span>
+                    <span>TREINE DE MANEIRA MAIS INTELIGENTE E RÁPIDA DO QUE ANTES</span>
                 </div>
 
                 <div>
                     <img src={tick} alt="check" />
-                    <span>1 FREE PROGRAM FOR NEW MEMBER</span>
+                    <span>1 PROGRAMA GRATUITO PARA NOVOS MEMBROS</span>
                 </div>
 
                 <div>
                     <img src={tick} alt="check" />
-                    <span>RELIABLE PARTNERS</span>
+                    <span>PARCEIROS CONFIÁVEIS</span>
                 </div>
 
                 <span>

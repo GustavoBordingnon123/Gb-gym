@@ -35,11 +35,11 @@ const Hero = () => {
             <div className="heroText">
 
                     <div>
-                        <span className='strokeText'>Shape </span>
-                        <span>Your</span>
+                        <span className='strokeText'>Construa </span>
+                        <span>Seu</span>
                     </div>
                     <div>
-                        <span>Ideal body</span>
+                        <span>Corpo ideal</span>
                     </div>
                     <div>
                         <span>
@@ -54,21 +54,21 @@ const Hero = () => {
                         <span>
                             <NumberCounter end={140} start={100} delay='4' preFix="+" />
                         </span>
-                        <span>EXPERT COACHES</span>
+                        <span>TREINADORES EXPERIENTES</span>
                     </div>
 
                     <div>
                         <span>
                             <NumberCounter end={978} start={200} delay='4' preFix="+" />
                         </span>
-                        <span>MEMBERS JOINED</span>
+                        <span>MENBROS ATIVOS</span>
                     </div>
 
                     <div>
                         <span>
                             <NumberCounter end={50} start={0} delay='4' preFix="+" />
                         </span>
-                        <span>FITNESS PROGRAMS</span>
+                        <span>PROGRAMAS FITNESS</span>
                     </div>
 
                 </div>
@@ -80,7 +80,7 @@ const Hero = () => {
             </div>
             
             <div className='right-h'>
-                <button className='btn'>Join now</button>
+                <button className='btn'>Comece já</button>
 
                 <motion.div 
                     className="heartRate"
