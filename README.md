@@ -1,70 +1,91 @@
-# Getting Started with Create React App
+# Gb-Gym Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Available Scripts
+## Demo
 
-In the project directory, you can run:
+Explore the demo [here](https://gb-gym.vercel.app).
 
-### `npm start`
+## Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Gb-Gym is a React-based landing page for a modern and dynamic gym. Designed to be 100% responsive, the page provides a consistent user experience across various devices, from desktops to mobile devices.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Key Features
 
-### `npm test`
+- **Responsiveness:** Fully adaptable to different screen sizes, ensuring a pleasant user experience on any device.
+- **Modern Design:** Attractive and contemporary layout, emphasizing visual elements that reflect the energy and vitality associated with physical exercise.
+- **Detailed Information:** Clearly and organizedly presents information about services offered, opening hours, and contact methods.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshots
 
-### `npm run build`
+![image](https://github.com/GustavoBordingnon123/Gb-gym/assets/105391247/eceeb6d4-da2e-4c8c-819b-ca03a1e55834)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Technologies Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- React
+- HTML
+- CSS
 
-### `npm run eject`
+## How to Run
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. **Clone the repository:** `git clone https://github.com/GustavoBordingnon123/Gb-gym.git`
+2. **Navigate to the project directory:** `cd Gb-gym`
+3. **Install dependencies:** `npm install`
+4. **Run the application:** `npm start`
+5. **Open your browser and go to:** `http://localhost:3000`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributions
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Contributions are welcome! Feel free to open issues or send pull requests to improve this project. Make sure to follow the contribution guidelines.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## License
 
-## Learn More
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for more details.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+-----------------------------------------------------------------------------------------------------------------
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+# Gb-Gym Landing Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-### Analyzing the Bundle Size
+## Demo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Explore a demo [aqui](https://gb-gym.vercel.app).
 
-### Making a Progressive Web App
+## Descrição
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+O Gb-Gym é uma landing page desenvolvida em React para uma academia moderna e dinâmica. Projetada para ser 100% responsiva, a página proporciona uma experiência de usuário consistente em diversos dispositivos, desde desktops até dispositivos móveis.
 
-### Advanced Configuration
+### Principais Características
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- **Responsividade:** Totalmente adaptável a diferentes tamanhos de tela, garantindo uma experiência de usuário agradável em qualquer dispositivo.
+- **Design Moderno:** Layout atraente e contemporâneo, com ênfase em elementos visuais que refletem a energia e vitalidade associadas à prática de exercícios físicos.
+- **Informações Detalhadas:** Apresenta de forma clara e organizada informações sobre os serviços oferecidos, horários de funcionamento, e formas de contato.
 
-### Deployment
+## Capturas de Tela
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![image](https://github.com/GustavoBordingnon123/Gb-gym/assets/105391247/eceeb6d4-da2e-4c8c-819b-ca03a1e55834)
 
-### `npm run build` fails to minify
+## Tecnologias Utilizadas
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- React
+- HTML
+- CSS
+
+## Como Executar
+
+1. **Clone o repositório:** `git clone https://github.com/GustavoBordingnon123/Gb-gym.git`
+2. **Navegue até o diretório do projeto:** `cd Gb-gym`
+3. **Instale as dependências:** `npm install`
+4. **Execute a aplicação:** `npm start`
+5. **Abra o navegador e acesse:** `http://localhost:3000`
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests para melhorar este projeto. Certifique-se de seguir as diretrizes de contribuição.
+
+## Licença
+
+Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
